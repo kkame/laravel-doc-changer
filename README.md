@@ -18,7 +18,7 @@ Screenshots
 Issues
 -----
 
-이슈는 여기에 등록해주세요 [issue tracker](http://github.com/kkame/laravel-doc-changer/issues).
+이슈는 [[여기](http://github.com/kkame/laravel-doc-changer/issues)]에 등록해주세요.
 
 
 TODO
