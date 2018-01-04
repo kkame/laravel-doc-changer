@@ -1,6 +1,6 @@
 Laravel Doc Changer
 =====
-한글 메뉴얼 사이트 (https://laravel.kr)와 영문 메뉴얼 사이트 (https://laravel.kr) 간의 이동을 도와주는 버튼을 생성해줍니다. 
+한글 메뉴얼 사이트 (https://laravel.kr)와 영문 메뉴얼 사이트 (https://laravel.com) 간의 이동을 도와주는 버튼을 생성해줍니다. 
 
 
 Issues
