@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+
+  "name": "laravel_doc_language_changer",
+  "description": "Laravel Doc Changer",
+  "version": "0.0.1",
+
+  "browser_action": {
+    "default_icon": "images/laravel_icon.png",
+    "default_popup": "html/popup.html"
+  },
+  "background": {
+    "scripts": ["js/background.js"]
+  },
+  "permissions": [
+    "tabs",
+    "<all_urls>"
+  ]
+}
